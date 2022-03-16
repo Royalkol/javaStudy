@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/compa/compa.iml" filepath="$PROJECT_DIR$/compa/compa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea_demo/idea_demo.iml" filepath="$PROJECT_DIR$/idea_demo/idea_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myByteStream/myByteStream.iml" filepath="$PROJECT_DIR$/myByteStream/myByteStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myCollection/myCollection.iml" filepath="$PROJECT_DIR$/myCollection/myCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myCollections/myCollections.iml" filepath="$PROJECT_DIR$/myCollections/myCollections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myDiGui/myDiGui.iml" filepath="$PROJECT_DIR$/myDiGui/myDiGui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myGeneric/myGeneric.iml" filepath="$PROJECT_DIR$/myGeneric/myGeneric.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myMap/myMap.iml" filepath="$PROJECT_DIR$/myMap/myMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myStudentManager/myStudentManager.iml" filepath="$PROJECT_DIR$/myStudentManager/myStudentManager.iml" />
+    </modules>
+  </component>
+</project>
